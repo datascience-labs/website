@@ -1,5 +1,5 @@
-name: Data Science Lab Reesearch
-description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
+name: Data science lab
+description: Scientific updates on knowledge representation, reasoning and recommendation from the Data Science lab at the Dong-A University
 url: http://datasciencelabs.org
 
 markdown: kramdown
@@ -64,53 +64,3 @@ exclude:
   - "projects/zika-colombia/supplemental-analysis/rarefaction-curves/*"
 
 projects:
-  - alvason/infectious-pulse
-  - blab/chikv
-  - blab/dengue-antigenic-dynamics
-  - blab/flu-forecasting
-  - blab/genomic-horizon
-  - blab/global-migration
-  - blab/h3n2-reassortment
-  - blab/h5n1-cambodia
-  - blab/mers-structure
-  - blab/mitii
-  - blab/mumps-seq
-  - blab/mumps-wa-phylodynamics
-  - blab/ncov-cryptic-transmission
-  - blab/ncov-phylodynamics
-  - blab/ncov-wa-d614g
-  - blab/ncov-wa-phylodynamics
-  - blab/nextflu
-  - blab/roka
-  - blab/seasonal-cov-adaptive-evolution
-  - blab/siv-cst
-  - blab/unsampled
-  - blab/yellow-fever
-  - blab/zika-colombia
-  - blab/zika-seq
-  - blab/zika-usvi
-  - evogytis/baltic
-  - nextstrain/augur
-  - nextstrain/auspice
-  - nextstrain/cli
-  - nextstrain/fauna
-  - nextstrain/janus
-  - nextstrain/ncov
-  - nextstrain/nextstrain.org
-  - nextstrain/sacra
-  - seattleflu/id3c
-  - seattleflu/id3c-customizations
-  - trvrb/ancestry
-  - trvrb/antigen
-  - trvrb/coaltrace
-  - trvrb/divergence
-  - trvrb/dynamics-practical
-  - trvrb/flutrace
-  - trvrb/gs541-phylodynamics
-  - trvrb/haplotypes
-  - trvrb/medium-data
-  - trvrb/PACT
-  - trvrb/phylodynamics-lecture
-  - trvrb/sctrace
-  - trvrb/sismid
-  - trvrb/stem

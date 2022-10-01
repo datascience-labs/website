@@ -1,5 +1,6 @@
 ---
 layout: paper
+group: knowevo
 title: "The evolving SARS-CoV-2 epidemic in Africa: Insights from rapidly expanding genomic surveillance"
 image: /images/papers/tegally-sarscov2-in-africa.png
 authors: Tegally H, San JE, Cotten M, Tegomoh B, Mboowa G, Martin DP, Baxter C, Moir M, Lambisia A, Diallo A, Amoako DG, Diagne MM, Sisay A, Zekri A-RN, Barakat A, Gueye A-S, Sangare AK, Ouedraogo A-S, Sow A, Musa AO, ..., Huddleston J, ..., Bedford T, ..., Ramphal Y, Bediako Y, Naidoo Y, Butera Y, de Laurent ZR, Ouma AEO, von Gottberg A, Githinji G, Moeti M, Tomori O, Sabeti PC, Sall AA, Oyola SO, Tebeje YK, Tessema SK, de Oliveira T, Happi C, Lessells R, Nkengasong J, Wilkinson E (395 authors).
