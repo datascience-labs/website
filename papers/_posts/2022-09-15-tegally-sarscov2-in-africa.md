@@ -1,17 +1,15 @@
 ---
 layout: paper
 group: knowevo
-title: "The evolving SARS-CoV-2 epidemic in Africa: Insights from rapidly expanding genomic surveillance"
-image: /images/papers/tegally-sarscov2-in-africa.png
-authors: Tegally H, San JE, Cotten M, Tegomoh B, Mboowa G, Martin DP, Baxter C, Moir M, Lambisia A, Diallo A, Amoako DG, Diagne MM, Sisay A, Zekri A-RN, Barakat A, Gueye A-S, Sangare AK, Ouedraogo A-S, Sow A, Musa AO, ..., Huddleston J, ..., Bedford T, ..., Ramphal Y, Bediako Y, Naidoo Y, Butera Y, de Laurent ZR, Ouma AEO, von Gottberg A, Githinji G, Moeti M, Tomori O, Sabeti PC, Sall AA, Oyola SO, Tebeje YK, Tessema SK, de Oliveira T, Happi C, Lessells R, Nkengasong J, Wilkinson E (395 authors).
+title: "Real-time Stock Market Analytics for Improving Deployment and Accessibility using PySpark and Docker"
+image: /images/papers/debs2022-framework.png
+authors: Suyeon Wang, Jaekyong Kim, Yoonsang Yang, Jinseong Hwang, Jungkyu Han, Sejin Chun
 year: 2022
-ref: Tegally et al. 2022. Science.
-journal: "Science: 10.1126/science.abq5358."
-pdf: /pdfs/papers/tegally-sarscov2-in-africa.pdf
-supplement: /pdfs/papers/tegally-sarscov2-in-africa-supp.pdf
-doi: 10.1126/science.abq5358
+ref: Suyeon et al. 2022. ACM DEBS.
+journal: "DEBS '22: Proceedings of the 16th ACM International Conference on Distributed and Event-Based SystemsJune 2022 Pages 171–175"
+doi: 10.1145/3524860.3539652
 ---
 
 # Abstract
 
-Investment in SARS-CoV-2 sequencing in Africa over the past year has led to a major increase in the number of sequences generated, now exceeding 100,000 genomes, used to track the pandemic on the continent. Our results show an increase in the number of African countries able to sequence domestically, and highlight that local sequencing enables faster turnaround time and more regular routine surveillance. Despite limitations of low testing proportions, findings from this genomic surveillance study underscore the heterogeneous nature of the pandemic and shed light on the distinct dispersal dynamics of Variants of Concern, particularly Alpha, Beta, Delta, and Omicron, on the continent. Sustained investment for diagnostics and genomic surveillance in Africa is needed as the virus continues to evolve, while the continent faces many emerging and re-emerging infectious disease threats. These investments are crucial for pandemic preparedness and response and will serve the health of the continent well into the 21st century.
+Making timely-decisions amid the massive influx of financial data is one of the essential features of stock market analytics. Many stock market analytics should provide functionalities that compute multiple technical indicators simultaneously and detect breakout situations. The DEBS 2022 Grand Challenge (DEBS22 GC) competition requires to answering two types of queries: technical trend indicators and detection of crossover patterns. In response to the competition, we propose a real-time stock market analytic solution using PySpark and Docker. Our solution calculates the technical trend indicator---Exponential Moving Average(EMA)---in real-time with the window function. With the technical indicators computed, we detect the breakout pattern that helps determine either buy or sell stocks. Our solution not only improves the speed of deploying applications using a Docker container image but also can be accessed easily via a web-based Jupyter notebook.
