@@ -1,7 +1,7 @@
 ---
 layout: member
-title: Nashwa Ahmed
-position: Rotation student
+title: Sumin Baek
+position: Undergraduate
 github: nmmahmed
 image: /images/team/nashwa-ahmed.jpg
 ---

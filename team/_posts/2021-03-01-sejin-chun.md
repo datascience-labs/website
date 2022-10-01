@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Sejin Chun
-position: Principal investigator
+position:  Assistant Professor / Principal investigator 
 handle: sjchun
 github: chunsejin
 scholar: Q0dsps8AAAAJ
@@ -10,9 +10,5 @@ cv: /pdfs/team/sejin-chun-cv.pdf
 email: sjchun@dau.ac.kr
 ---
 
-I'm an Assitant Professor in the Department of Computer Engineering and Artificial Intelligence at the Dong-A University.
+I have joined the Department of Computer Engineering and Artificial Intelligence at the [Dong-A University](https://english.donga.ac.kr/sites/english/index.do) since Mar. 2021. Before joining [Dong-A university](https://english.donga.ac.kr/sites/english/index.do), I worked as a guest researcher in the [Software and Systems Division](https://www.nist.gov/itl/ssd) in the [Information Technology Laboratory](https://www.nist.gov/itl) at [National Institute of Standards and Technology(NIST)](https://www.nist.gov/) from Oct. 2018 to Aug. 2020. I received PhD in Computer Science from Yonsei University in 2018. 
 
-My research program focuses on using viral genome sequences to understand virus evolution and to gain insight into factors driving viral outbreaks, epidemics and pandemics.
-Much of this work has been instantiated in the [Nextstrain](https://nextstrain.org/) platform to conduct real-time genomic epidemiology and to share results broadly.
-This platform has seen substantial public health adoption to improve seasonal influenza vaccines, combat Ebola outbreaks and to understand and curb SARS-CoV-2 transmission.
-More broadly, I've sought to progress genomic surveillance and with the [Seattle Flu Study](https://seattleflu.org/), lead the design and implementation of a next-generation infectious disease surveillance system that greatly impacted state and local response to the COVID-19 pandemic.
