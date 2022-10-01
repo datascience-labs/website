@@ -2,7 +2,7 @@
 environment*
 
 # Compiled site
-_site/
+# _site/
 
 # Projects
 projects/
