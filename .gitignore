@@ -16,3 +16,9 @@ projects/
 # Other files
 .DS_Store
 .tweet-cache
+
+
+# Firebase
+.firebaserc
+firebase.json
+.firebase/

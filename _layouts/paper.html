@@ -28,6 +28,25 @@ layout: default
 	<div class="col-lg-3">
 		<div class="bigspacer"></div>
 		<div class="glyphbox note">
+			{% if page.ptype %}
+			<div class="smallhead">
+				PAPER TYPE
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-light fa-book"></i>
+				{% if page.ptype == 'intconf' %}
+					<a class="off" href="{{ page.ptype }}">International Conference</a>
+				{% elsif page.ptype == 'intjour' %}
+					<a class="off" href="{{ page.ptype }}">International Journal</a>
+				{% elsif page.ptype == 'domjour' %}
+					<a class="off" href="{{ page.ptype }}">Domestic Journal</a>
+				{% elsif page.ptype == 'domconf' %}
+					<a class="off" href="{{ page.ptype }}">Domestic Conference</a>
+				{% endif %}
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
 			{% if page.pdf %}
 			<div class="smallhead">
 				PDF

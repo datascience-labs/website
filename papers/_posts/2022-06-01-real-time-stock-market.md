@@ -1,5 +1,6 @@
 ---
 layout: paper
+ptype: intconf
 group: knowevo
 title: "Real-time Stock Market Analytics for Improving Deployment and Accessibility using PySpark and Docker"
 image: /images/papers/debs2022-framework.png
