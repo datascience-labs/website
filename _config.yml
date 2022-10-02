@@ -64,3 +64,4 @@ exclude:
   - "projects/zika-colombia/supplemental-analysis/rarefaction-curves/*"
 
 projects:
+  - "developsu/debs2022gc"
