@@ -1,10 +1,11 @@
 ---
 layout: member
 title: Sejin Chun
-position:  Assistant Professor / Principal investigator 
+position:  Principal investigator / Leader of Knowledge Evolution Group
 handle: sjchun
 github: chunsejin
 scholar: Q0dsps8AAAAJ
+linkedin: sejin-chun-8744a783
 image: /images/team/sjchun.jpg
 cv: /pdfs/team/sejin-chun-cv.pdf
 email: sjchun@dau.ac.kr

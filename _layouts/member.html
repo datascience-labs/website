@@ -31,8 +31,19 @@ layout: default
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-file-text-o fa-fw"></i>
+			<i class="fa fa-brands fa-linkedin"></i>
 			<a class="off" href="{{ member.cv }}">{{ member.cv | split: '/' | last }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+		{% if member.linkedin %}
+		<div class="smallhead">
+			Twitter
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-twitter fa-fw"></i>
+			<a class="off" href="https://www.linkedin.com/in//{{ member.linkedin }}">{{ member.linkedin }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
