@@ -3,7 +3,6 @@ layout: paper
 ptype: intconf
 group: knowevo
 title: "Knowledge Graph Modeling for Semantic Integration of Energy Services"
-image: /images/papers/debs2022-framework.png
 authors: Sejin Chun, Xiongnan Jin, Seungmin Seo, Kyong-Ho Lee, Youngmee Shin, Ilwoo Lee
 year: 2018
 ref: Sejin et al. 2018. BigData4SmartEnergy2018.
