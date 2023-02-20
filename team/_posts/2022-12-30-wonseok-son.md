@@ -2,7 +2,7 @@
 layout: member
 title: Wonseok Son
 position: Undergraduate
-github: nmmahmed
+github: FarmingWon
 image: /images/team/nashwa-ahmed.jpg
 ---
 

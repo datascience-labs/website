@@ -2,7 +2,7 @@
 layout: member
 title: Soobin Yoon
 position: Undergraduate
-github: nmmahmed
+github: y00ns
 image: /images/team/nashwa-ahmed.jpg
 ---
 
