@@ -2,7 +2,7 @@
 layout: member
 title: Jeonghyeon Park
 position: Undergraduate
-github: nmmahmed
+github: jhparkland
 image: /images/team/nashwa-ahmed.jpg
 ---
 
