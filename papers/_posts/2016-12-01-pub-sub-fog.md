@@ -6,7 +6,7 @@ title: "A Pub/Sub Fog Architecture for Internet of Vehicles"
 image: /images/papers/debs2022-framework.png
 authors: Sejin Chun, Sangjin Shin, Seungmin Seo, Sungkwang Eom, Jooik Jung, Kyong-Ho Lee
 year: 2016
-ref: Sejin et al. 2016. CloudCom 2016.
+ref: CloudCom 2016.
 journal: "Proc. of 8th IEEE International Conference on Cloud Computing Technology and Science"
 doi: 10.1109/CloudCom.2016.0029
 ---

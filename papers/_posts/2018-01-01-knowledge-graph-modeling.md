@@ -5,8 +5,8 @@ group: knowevo
 title: "Knowledge Graph Modeling for Semantic Integration of Energy Services"
 authors: Sejin Chun, Xiongnan Jin, Seungmin Seo, Kyong-Ho Lee, Youngmee Shin, Ilwoo Lee
 year: 2018
-ref: Sejin et al. 2018. BigData4SmartEnergy2018.
-journal: "Proc. of the Int’l Workshop on Big Data Analysis for Smart Energy (BigData4SmartEnergy2018)"
+ref: BigData4SmartEnergy 2018.
+journal: Proc. of the Int’l Workshop on Big Data Analysis for Smart Energy (BigData4SmartEnergy2018)
 doi: 10.1109/BigComp.2018.00138
 ---
 
