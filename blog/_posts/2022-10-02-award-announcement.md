@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 제10회 산업통상자원부 공공데이터 활용 BI 공모전 - 대상·최우수상·우수상·장려상 수상
-description: 제10회 산업통상자원부 공공데이터 활용 BI 공모전 - 대상·최우수상·우수상·장려상 수상
+title: 대상·최우수상·우수상·장려상 수상
+description: 제10회 산업통상자원부 공공데이터 활용 BI 공모전에서 4개 수상
 thumb: /images/blog/award-2022-2.jpg
 author: DSL-Media
 ---

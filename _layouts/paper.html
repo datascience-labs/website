@@ -26,25 +26,25 @@ layout: default
 
 <div class="row">
 	<div class="col-lg-3">
-		<div class="bigspacer"></div>
+<!--		<div class="bigspacer"></div>-->
 		<div class="glyphbox note">
 			{% if page.ptype %}
-			<span class="badge badge-primary">
-				PAPER TYPE
-			</span>
-			<div class="pad-left note">
-				<div class="smallspacer"></div>
-				<i class="fa fa-light fa-book"></i>
+<!--			<span class="badge badge-primary">-->
+<!--				PAPER TYPE-->
+<!--			</span>-->
+<!--			<div class="pad-left note">-->
+<!--				<div class="smallspacer"></div>-->
+<!--				<i class="fa fa-light fa-book"></i>-->
 				{% if page.ptype == 'intconf' %}
-					<a class="off" href="{{ page.ptype }}">International Conference</a>
+					<span class="badge badge-primary" href="{{ page.ptype }}">International Conference</span>
 				{% elsif page.ptype == 'intjour' %}
-					<a class="off" href="{{ page.ptype }}">International Journal</a>
+					<span class="badge badge-success" href="{{ page.ptype }}">International Journal</span>
 				{% elsif page.ptype == 'domjour' %}
-					<a class="off" href="{{ page.ptype }}">Domestic Journal</a>
+					<span class="badge badge-warning" href="{{ page.ptype }}">Domestic Journal</span>
 				{% elsif page.ptype == 'domconf' %}
-					<a class="off" href="{{ page.ptype }}">Domestic Conference</a>
+					<span class="badge badge-warning" href="{{ page.ptype }}">Domestic Conference</span>
 				{% endif %}
-			</div>
+<!--			</div>-->
 			<div class="bigspacer"></div>
 			{% endif %}
 			{% if page.pdf %}

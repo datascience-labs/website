@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 한국멀티미디어학회 우수논문상 수상
-description: 한국멀티미디어학회 우수논문상 수상
+title: 우수논문상 수상
+description: 2022 한국멀티미디어학회 추계학술대회 우수논문상 수상
 author: DSL-Media
 ---
 

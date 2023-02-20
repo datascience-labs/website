@@ -1,6 +1,6 @@
 ---
 layout: paper
-ptype: domconf
+ptype: intconf 
 group: knowevo
 title: "Optimal Scenarios of Renewables and Chargers for an Electric Vehicle Charging Station using Public Data"
 authors: Jieun Ihm, Sejin Chun, Herie Park

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 조선해양공공데이터 및 빅데이터 활용 경진대회 대상 수상
-description: 조선해양공공데이터 및 빅데이터 활용 경진대회 대상 수상
+title: 대상 수상
+description: 조선해양공공데이터/빅데이터 활용 경진대회에서 부산시장상 수상
 author: DSL-Media
 ---
 

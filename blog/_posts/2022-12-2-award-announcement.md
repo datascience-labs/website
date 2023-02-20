@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dong-A FDDD 2022 수상
-description: 
+description: 동아대학교 교내 경진대회에서 다수 수상
 author: DSL-Media
 ---
 
