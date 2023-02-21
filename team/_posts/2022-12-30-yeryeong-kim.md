@@ -1,8 +1,8 @@
 ---
 layout: member
-title: Jiseon Kim
+title: Yeryeong Kim
 position: Undergraduate
-github: Prcnsi
+github: yeryeong713
 ---
 
 TBD

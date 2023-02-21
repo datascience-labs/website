@@ -1,10 +1,10 @@
 ---
 layout: member
-title: Jungsu Kim
+title: Jeongsu Kim
 position: Master student
 github: jeongsu-int
 kname: 김정수
-image: /images/team/jungsu-kim.jpg
+image: /images/team/jeongsu-kim.jpg
 ---
 
 TBD
