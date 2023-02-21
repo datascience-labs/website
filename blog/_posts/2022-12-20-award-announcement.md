@@ -2,6 +2,7 @@
 layout: post
 title: 대상 수상
 description: 조선해양공공데이터/빅데이터 활용 경진대회에서 부산시장상 수상
+thumb: /images/blog/award-2022-12.jpg
 author: DSL-Media
 ---
 
