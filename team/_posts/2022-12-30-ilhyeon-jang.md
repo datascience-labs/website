@@ -3,7 +3,7 @@ layout: member
 title: Ilhyeon Jang
 position: Undergraduate
 kname : 장일현
-github : 
+github : j1h318
 ---
 
 TBD
