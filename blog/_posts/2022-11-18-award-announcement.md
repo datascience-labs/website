@@ -6,7 +6,7 @@ thumb: /images/blog/award-2022-11.jpg
 author: DSL-Media
 ---
 
-![1](22멀티미디어추계.jpg)
+![1](/images/blog/award-2022-11.jpg)
 **주저자 박정현(왼쪽, 3학년), 가운데 이성범(4학년), 공저자 김대로(오른쪽, 3학년)**
 
 ### 수상소식 알림
