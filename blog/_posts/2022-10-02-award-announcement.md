@@ -2,7 +2,7 @@
 layout: post
 title: 대상·최우수상·우수상·장려상 수상
 description: 제10회 산업통상자원부 공공데이터 활용 BI 공모전에서 4개 수상
-thumb: /images/blog/award-2022-2.jpg
+thumb: /images/blog/award-2022-10.jpg
 author: DSL-Media
 ---
 
@@ -11,7 +11,7 @@ author: DSL-Media
 본 연구실 소속 학생들이 중심으로 구성된 4개 팀이 산업통상자원부 제10회 공공데이터 기반 비지니스 아이디어 공모전에서 대상, 최우수상, 우수상, 그리고 대상을 수상하였습니다.
 
 <div id="fig:award-data-science-labs">
-  <img src="/images/blog/award-2022-2.jpg" style="display: inline; margin: 0; width: 70%" />
+  <img src="/images/blog/award-2022-10.jpg" style="display: inline; margin: 0; width: 70%" />
 </div>
 <span class="text-figure-legend">
 ‘제10회 산업통상자원부 공공데이터 활용 BI 공모전’에서 대거 수상한 동아대 학생들과 한정규(뒷줄 맨 왼쪽), 천세진(뒷줄 맨 오른쪽) 지도교수.
