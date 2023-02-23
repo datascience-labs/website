@@ -17,6 +17,6 @@ author: DSL-Media
 
 ### 관련 뉴스기사
 1. 동아대 컴퓨터·AI공학부 학생들, ‘조선해양 공공데이터 및 빅데이터 활용 경진대회’ 대상, [동아대학교 홈페이지](https://www.donga.ac.kr/gzSub_001007001.aspx)
-2. 동아대 컴퓨터/AI공학부 학생들,  '조선해양 공공데이터 및 빅데이터 활용 경진대회' 대상 수상, 베리타스 알파(http://www.veritas-a.com/news/articleView.html?idxno=442281)
-3. 동아대 컴퓨터·AI공학부 학생들, ‘조선해양 공공데이터 및 빅데이터 활용 경진대회’ 대상‘OceanBee‘팀, 인디포커스(http://www.indifocus.kr/sub_read.html?u_ip=66.249.68.84&uid=42907)
+2. 동아대 컴퓨터/AI공학부 학생들,  '조선해양 공공데이터 및 빅데이터 활용 경진대회' 대상 수상, [베리타스 알파](http://www.veritas-a.com/news/articleView.html?idxno=442281)
+3. 동아대 컴퓨터·AI공학부 학생들, ‘조선해양 공공데이터 및 빅데이터 활용 경진대회’ 대상‘OceanBee‘팀, [인디포커스](http://www.indifocus.kr/sub_read.html?u_ip=66.249.68.84&uid=42907)
 
