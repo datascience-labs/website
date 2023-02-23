@@ -5,7 +5,7 @@ description: 2022년 지역현안해결 대학수업지원 프로젝트에 참�
 thumb: /images/blog/award-2022-06.jpg
 author: DSL-Media
 ---
-![지역현안](/images/blog/award-2022-06.jpg)
+![지역현안](/images/blog/award-2022-06.jpg)  
 **본 연구실 학생들(가운데), 천세진(오른쪽) 교수, 설상철 (재)부산인재평생교육진흥원장.**
 
 ### 수상소식 알림
