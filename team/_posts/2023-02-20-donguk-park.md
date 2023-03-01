@@ -2,7 +2,8 @@
 layout: member
 title: Donguk Park
 position: Undergraduate
-github: DongUk-Park
+kname : 박동욱
+github : DongUk-Park
 ---
 
 TBD
